@@ -17,6 +17,7 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.apiVersion>7.7</sonar.apiVersion>
+		<sonar.host.url>http://3.87.22.107:9000</sonar.host.url>
 		<jaxb.api.version>2.3.3</jaxb.api.version>
 		<jaxb.version>2.3.2</jaxb.version>
 	</properties>
