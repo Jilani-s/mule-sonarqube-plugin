@@ -21,7 +21,13 @@
 		<jaxb.api.version>2.3.3</jaxb.api.version>
 		<jaxb.version>2.3.2</jaxb.version>
 	</properties>
-
+	<plugins>
+			<plugin>
+				<groupId>org.sonarsource.scanner.maven</groupId>
+				<artifactId>sonar-maven-plugin</artifactId>
+				<version>3.7.0.1746</version>
+			</plugin>
+		</plugins>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
