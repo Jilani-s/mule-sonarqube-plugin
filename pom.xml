@@ -18,7 +18,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<app.runtime>4.2.2</app.runtime>
 		<mule.maven.plugin.version>3.2.7</mule.maven.plugin.version>
-		
+		<sonar.sources>src/</sonar.sources>
 		<sonar.apiVersion>7.7</sonar.apiVersion>
 		<sonar.host.url>http://3.87.22.107:9000</sonar.host.url>
 		<jaxb.api.version>2.3.3</jaxb.api.version>
